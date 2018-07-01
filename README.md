@@ -32,7 +32,7 @@ And We used persona and benchmarking.
 
 ## Demonstration video
 
-[![Alt text for your video](https://img.youtube.com/vi/v=9xPwZn2B504/0.jpg)](https://www.youtube.com/watch?v=9xPwZn2B504&t)
+[![Alt text for your video](https://img.youtube.com/vi/v=9xPwZn2B504/0.jpg)](https://www.youtube.com/watch?v=9xPwZn2B504)
 
 [![Alt text for your video](https://img.youtube.com/vi/IMnppjnzoVc/0.jpg)](https://www.youtube.com/watch?v=IMnppjnzoVc)
 
