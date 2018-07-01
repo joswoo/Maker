@@ -28,7 +28,7 @@ Adn We used persona and benchmarking.
 
 ## Demonstration video
 [![Alt text for your video](https://img.youtube.com/vi/9xPwZn2B504&t=3s/0.jpg)](https://www.youtube.com/watch?v=9xPwZn2B504&t=3s)
+
 [![Alt text for your video](https://img.youtube.com/vi/IMnppjnzoVc/0.jpg)](https://www.youtube.com/watch?v=IMnppjnzoVc)
 
 
-<img width="600" alt="default" src="https://user-images.githubusercontent.com/29402714/42134824-924399d8-7d7d-11e8-9159-69034b9606a7.jpg">
