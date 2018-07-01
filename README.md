@@ -1,4 +1,5 @@
 # HOLO(Maker Team)
+<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/42135427-c6413a9e-7d85-11e8-9220-e7b96461c4d5.png">
 
 ## Member
 - Consumer : Ryunga Kim, Kihun, Soung
@@ -16,7 +17,8 @@ The result is shown below.
 
 <img width="600" alt="default" src="https://user-images.githubusercontent.com/29402714/42135052-da24ccb0-7d80-11e8-8446-575eaaa073bf.png">
 
-Adn We used persona and benchmarking.
+
+And We used persona and benchmarking.
 <img width="600" alt="default" src="https://user-images.githubusercontent.com/29402714/42135192-4b118214-7d82-11e8-84b0-887ad315d951.png">
 
 ## Concept board and Wireframe
@@ -24,11 +26,16 @@ Adn We used persona and benchmarking.
 <img width="600" alt="default" src="https://user-images.githubusercontent.com/29402714/42135246-46b116f2-7d83-11e8-940b-8eff490f8c08.png">
 
 ## Proto type
-<img width="600" alt="default" src="https://user-images.githubusercontent.com/29402714/42135296-0de0df96-7d84-11e8-8a1d-5cbda4829201.png">
+<img width="600" alt="default" src="https://user-images.githubusercontent.com/29402714/42135377-36a2667e-7d85-11e8-9431-2815a4b98589.png">
+
+<img width="659" alt="default" src="https://user-images.githubusercontent.com/29402714/42135415-a3b5d0f2-7d85-11e8-8a07-2b7f319e3845.png">
 
 ## Demonstration video
-[![Alt text for your video](https://img.youtube.com/vi/9xPwZn2B504&t=3s/0.jpg)](https://www.youtube.com/watch?v=9xPwZn2B504&t=3s)
+
+[![Alt text for your video](https://img.youtube.com/vi/v=9xPwZn2B504/0.jpg)](https://www.youtube.com/watch?v=9xPwZn2B504&t)
 
 [![Alt text for your video](https://img.youtube.com/vi/IMnppjnzoVc/0.jpg)](https://www.youtube.com/watch?v=IMnppjnzoVc)
 
 
+## Desired Effect
+<img width="600" alt="default" src="https://user-images.githubusercontent.com/29402714/42135413-a2516c8a-7d85-11e8-86c2-bf3e39a84a41.png">
