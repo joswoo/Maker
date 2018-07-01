@@ -12,7 +12,7 @@ HOLO is an app that solves the loneliness of a single person. The HOLO logo is a
 
 
 
+<img width="600" alt="default" src="https://user-images.githubusercontent.com/29402714/42135052-da24ccb0-7d80-11e8-8446-575eaaa073bf.png">
 
 
-
-<img width="590" alt="default" src="https://user-images.githubusercontent.com/29402714/42134824-924399d8-7d7d-11e8-9159-69034b9606a7.jpg">
+<img width="600" alt="default" src="https://user-images.githubusercontent.com/29402714/42134824-924399d8-7d7d-11e8-9159-69034b9606a7.jpg">
