@@ -2,7 +2,7 @@
 
 <img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/42135427-c6413a9e-7d85-11e8-9220-e7b96461c4d5.png">
 
-**HOLO**
+### HOLO
 
 ## Member
 - Consumer : Ryunga Kim, Kihun, Soung
